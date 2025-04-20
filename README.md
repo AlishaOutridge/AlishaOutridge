@@ -17,7 +17,7 @@ CTO + CPO | AI Strategist | Serial Entrepreneur | Educator | Speaker | Tech Come
 🎤 Global Speaker at SXSW (Austin + Sydney), All That Matters (Singapore), Venture Summit, NY Tech Week, Miami Music Tech & more.
 
 ### 🏆 Notable Wins
-- 🚨 CPO of **FlyBy** – acquired by Apple → became **ARKit**, built with Google’s Project Tango  
+- 🚨 CPO of **FlyBy** – acquired by Apple → became **ARKit** & Google X 'Project Tango' company  
 - 🎶 Launched **TuneCore’s AI in Music Survey** → +30% user engagement, +25% artist revenue  
 - 🧠 Founded **tapTank**, TechCrunch Disrupt finalist  
 - 📺 Co-led award-winning **Social TV platform** with AT&T → Global CSI Award  
