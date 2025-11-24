@@ -4,7 +4,6 @@ CTO + CPO | AI Strategist | Serial Entrepreneur | Educator | Speaker | Tech Come
 15+ years leading innovation as a CTO+CPO & executive at Meta, FlyBy (acq. by Apple), Reuters, and iHeartRadio.
 
 🚀 Currently building:
-- **MetaPause** – AI for Women’s Health & Longevity  
 - **Byte&Chord** – AI Venture Studio + Leadership Coaching for Creators & Founders  
 
 🔬 I’m a:
