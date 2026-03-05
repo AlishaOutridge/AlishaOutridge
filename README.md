@@ -4,7 +4,7 @@ CTO + CPO | AI Strategist | Serial Entrepreneur | Educator | Speaker | Tech Come
 15+ years leading innovation as a CTO+CPO & executive at Meta, FlyBy (acq. by Apple), Reuters, and iHeartRadio.
 
 🚀 Currently building:
-- **Byte&Chord** – AI Venture Studio + Leadership Coaching for Creators & Founders  
+- Will update later. :)  
 
 🔬 I’m a:
 - Co-inventor of privacy-smart personalization & recommendation AI at Meta (used by 1B+ across Instagram & Facebook)  
