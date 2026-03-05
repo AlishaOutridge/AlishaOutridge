@@ -20,13 +20,7 @@ CTO + CPO | AI Strategist | Serial Entrepreneur | Educator | Speaker | Tech Come
 - 🎶 Launched **TuneCore’s AI in Music Survey** → +30% user engagement, +25% artist revenue  
 - 🧠 Founded **tapTank**, TechCrunch Disrupt finalist  
 - 📺 Co-led award-winning **Social TV platform** with AT&T → Global CSI Award  
-- 🎙️ Creator + Host of **The Product CEO** and **The FIT CTO** podcasts  
 
-### 🎙️ Podcasts & Series
-- **🎧 The Product CEO** – AI product strategy & leadership, from vision to execution  
-- **🎧 The FIT CTO Podcast** – Real-talk on mind, body, leadership & tech-life balance  
-- **🧠 AI Product Remix Series** – Remixing how we build with emerging tech & human intelligence  
-
-> “I build solutions, businesses, teams & products that help humans outpace machines—not the other way around.”
+> “I design + build solutions, businesses, teams & products that help humans outpace machines—not the other way around.”
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/alishaoutridge)
